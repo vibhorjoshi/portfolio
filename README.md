@@ -1,106 +1,88 @@
-# portfolio
+�
+# Vibhor Joshi - Machine Learning Portfolio
 
-Vibhor Joshi - Machine Learning Portfolio
-https://via.placeholder.com/800x400?text=Portfolio+Screenshot <!-- Replace with actual screenshot -->
+<div align="center">
+  <img src="https://via.placeholder.com/800x400/667eea/ffffff?text=Modern+ML+Portfolio" alt="Portfolio Screenshot" />
+  <p>A stunning portfolio showcasing machine learning expertise with modern design and animations</p>
+  
+  [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-View_Portfolio-667eea?style=for-the-badge)](https://vibhorjoshi.github.io/ml-portfolio)
+</div>
 
-A stunning, modern portfolio website showcasing Vibhor Joshi's expertise in Machine Learning, Computer Vision, and AI development. Inspired by the Dev Voyager aesthetic, this portfolio features a sleek dark theme with vibrant accents, glassmorphism design elements, and smooth animations.
+## ✨ Features
 
-Features ✨
-Modern Dark Theme with purple/pink gradient accents
+- **Modern Glassmorphism Design** with floating particles and glowing effects
+- **Fully Responsive** layout for all devices
+- **Interactive Elements** with hover animations
+- **Project Showcase** with GitHub links
+- **Professional Timeline** for work experience
+- **Skills Visualization** with animated tags
+- **Dark/Light Mode** (optional)
 
-Dynamic Background with animated particles and glowing effects
+## 🚀 Live Demo
 
-Glassmorphism Design throughout the interface
+[View the Portfolio Live](https://vibhorjoshi.github.io/ml-portfolio)
 
-Fully Responsive layout for all device sizes
+## 🛠️ Technologies Used
 
-Interactive Elements with hover effects and smooth animations
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
-Professional Sections showcasing skills, projects, and experience
+## 📋 Portfolio Sections
 
-Animated Timeline for professional experience
+1. **Hero Section** - Introduction with animated profile
+2. **About Me** - Professional background and skills
+3. **Skills Showcase** - Interactive technology tags
+4. **Projects** - Featured ML projects with GitHub links
+5. **Experience** - Professional timeline
+6. **Contact** - Social media links
 
-Project Showcase with technology tags and live links
+## 🚀 Getting Started
 
-Live Demo 🌐
-View Live Portfolio <!-- Replace with your actual deployment link -->
+### Installation
 
-Sections 📋
-Hero Section - Introduction with call-to-action buttons
+1. Clone the repository:
+```bash
+git clone https://github.com/vibhorjoshi/ml-portfolio.git
+cd ml-portfolio
+```
 
-About Section - Professional summary with glassmorphism cards
+2. Open in browser:
+```bash
+# Simply open index.html in your browser
+# Or use Live Server extension in VS Code
+```
 
-Skills Section - Organized by categories with interactive tags
+### Customization
 
-Projects Section - Featured projects with technology tags and links
+Edit the following in `index.html`:
+- **Personal Info**: Name, contact details, bio
+- **Projects**: Add/remove projects with descriptions
+- **Experience**: Update work history
+- **Skills**: Modify technology tags
 
-Experience Section - Timeline layout for professional journey
+## 🌐 Deployment
 
-Contact Section - Social media links and contact information
+### Deploy to GitHub Pages:
+1. Go to repository Settings > Pages
+2. Select branch (main/master)
+3. Set folder to root
+4. Save
 
-Technologies Used 💻
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white
+### Deploy to Netlify:
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/vibhorjoshi/ml-portfolio)
 
-Setup and Installation 🚀
-Clone the repository
+## 📄 License
 
-bash
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to project directory
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-bash
-cd your-repo-name
-Open in your browser
+---
 
-Simply open the index.html file in your preferred browser
-
-For live development, use a VS Code extension like Live Server
-
-Customization 🎨
-To customize this portfolio for your own use:
-
-Personal Information
-
-Update name, bio, and contact information in the HTML file
-
-Replace the profile circle with your own image
-
-Projects Section
-
-Update project titles, descriptions, and technologies
-
-Add your GitHub and demo links
-
-Experience Section
-
-Update your professional experience details
-
-Add or remove timeline items as needed
-
-Styling
-
-Modify colors in the :root variables at the top of the CSS
-
-Adjust animations and effects in the CSS and JavaScript
-
-Deployment 📦
-This portfolio can be easily deployed to:
-
-GitHub Pages
-
-Netlify
-
-Vercel
-
-https://www.netlify.com/img/deploy/button.svg
-
-License 📄
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Designed with ❤️ by Vibhor Joshi
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<div align="center">
+  <h3>Connect with me</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhorjoshi)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibhorjoshi)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibhor@example.com)
+</div>
