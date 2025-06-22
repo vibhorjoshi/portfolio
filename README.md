@@ -1,7 +1,6 @@
 # 🚀 Vibhor Joshi - AI/ML Engineer Portfolio
 
-<div align="center">
-  <img src="https://portfolio-xb6c.vercel.app/api/og" alt="Vibhor Joshi - ML Portfolio" width="100%" />
+
   
   ### 🎯 Building AI Solutions for Tomorrow
   *Machine Learning Engineer specializing in Computer Vision, NLP, and AI-powered solutions*
