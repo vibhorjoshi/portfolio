@@ -1,26 +1,25 @@
-�
 # Vibhor Joshi - Machine Learning Portfolio
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/667eea/ffffff?text=Modern+ML+Portfolio" alt="Portfolio Screenshot" />
-  <p>A stunning portfolio showcasing machine learning expertise with modern design and animations</p>
+  <img src="https://portfolio-xb6c.vercel.app/api/og" alt="Vibhor Joshi - ML Portfolio" />
+  <p>Building AI Solutions for Tomorrow - Machine Learning Engineer specializing in Computer Vision, NLP, and AI-powered solutions</p>
   
-  [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-View_Portfolio-667eea?style=for-the-badge)](https://vibhorjoshi.github.io/ml-portfolio)
+  [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-View_Portfolio-667eea?style=for-the-badge)](https://portfolio-xb6c.vercel.app/)
 </div>
 
 ## ✨ Features
 
 - **Modern Glassmorphism Design** with floating particles and glowing effects
-- **Fully Responsive** layout for all devices
-- **Interactive Elements** with hover animations
-- **Project Showcase** with GitHub links
-- **Professional Timeline** for work experience
-- **Skills Visualization** with animated tags
-- **Dark/Light Mode** (optional)
+- **Fully Responsive** layout optimized for all devices
+- **Interactive Project Showcase** with detailed descriptions
+- **Professional Experience Timeline** with government internships
+- **Skills & Technologies** visualization
+- **Real-time Document Processing** demos
+- **Contact Integration** with social links
 
 ## 🚀 Live Demo
 
-[View the Portfolio Live](https://vibhorjoshi.github.io/ml-portfolio)
+[View the Portfolio Live](https://portfolio-xb6c.vercel.app/)
 
 ## 🛠️ Technologies Used
 
@@ -31,12 +30,12 @@
 
 ## 📋 Portfolio Sections
 
-1. **Hero Section** - Introduction with animated profile
-2. **About Me** - Professional background and skills
-3. **Skills Showcase** - Interactive technology tags
-4. **Projects** - Featured ML projects with GitHub links
-5. **Experience** - Professional timeline
-6. **Contact** - Social media links
+1. **Hero Section** - "Building AI Solutions for Tomorrow" with animated introduction
+2. **About Me** - B.Tech ECE student with 8.1 CGPA and ML expertise
+3. **Skills Showcase** - Computer Vision, NLP, and AI technologies
+4. **Featured Projects** - OCR systems, anomaly detection, ML pipelines
+5. **Experience** - Government internships (Ministry of Home Affairs, NIC)
+6. **Contact** - Professional social media links
 
 ## 🚀 Getting Started
 
@@ -63,6 +62,9 @@ Edit the following in `index.html`:
 - **Skills**: Modify technology tags
 
 ## 🌐 Deployment
+
+### Deploy to Vercel (Recommended):
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vibhorjoshi/ml-portfolio)
 
 ### Deploy to GitHub Pages:
 1. Go to repository Settings > Pages
